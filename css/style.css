@@ -1,0 +1,12 @@
+body {
+  background-color: #808080;
+}
+.square-yellow {
+  background-color: #fea500;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+h1 {
+  color: white;
+}
